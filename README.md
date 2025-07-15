@@ -1,4 +1,4 @@
-# Real Stories WhatsApp Bot
+# Real Stories WhatsApp Automation
 
 > **🚀 To see this bot in action**
 > 👉 [Visit my WhatsApp Channel where I post daily stories using this bot!](https://www.whatsapp.com/channel/0029VbAocBlJENy7BDlMpL2f)
