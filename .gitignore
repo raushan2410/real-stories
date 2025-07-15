@@ -1,0 +1,5 @@
+.sessions/
+.env
+run_app.sh
+sa-key.json
+

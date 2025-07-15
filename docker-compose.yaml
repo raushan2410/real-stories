@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  waha:
+    image: devlikeapro/waha:arm
+    container_name: waha
+    ports:
+      - "3003:3000"
+    # persist session so you only QR-scan once
+    volumes:
+      # persist your WhatsApp login/session across restarts
+      - ./.sessions:/app/.sessions
+    environment:
+      # explicit session‐store path
+      - WAHA_LOCAL_STORE_BASE_DIR=/app/.sessions
+
+  app:
+    image: approval-app
+    container_name: real-stories
+    depends_on:
+      - waha
+    env_file:
+      - .env
+
+volumes:
+  waha-sessions:
+
+
+
+## write down 5 real stories which should be intresting and can amazed the readers. write it in medium length, make it easy to read for user while keeping it engaging. include a title as well. 
