@@ -1,6 +1,6 @@
 # Real Stories WhatsApp Automation
 
-> **🚀 To see this bot in action**
+> **🚀 To see this in action**
 > 👉 [Visit my WhatsApp Channel where I post daily stories using this bot!](https://www.whatsapp.com/channel/0029VbAocBlJENy7BDlMpL2f)
 
 Automated WhatsApp bot to fetch inspirational real-life stories from Google Sheets and send them to your WhatsApp newsletter/channel using the WAHA HTTP API.
