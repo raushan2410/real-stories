@@ -1,9 +1,9 @@
 # Real Stories WhatsApp Automation
 
 > **🚀 To see this in action**
-> 👉 [Visit my WhatsApp Channel where I post daily stories using this bot!](https://www.whatsapp.com/channel/0029VbAocBlJENy7BDlMpL2f)
+> 👉 [Visit my WhatsApp Channel where I post daily stories!](https://www.whatsapp.com/channel/0029VbAocBlJENy7BDlMpL2f)
 
-Automated WhatsApp bot to fetch inspirational real-life stories from Google Sheets and send them to your WhatsApp newsletter/channel using the WAHA HTTP API.
+WhatsApp automation to fetch inspirational real-life stories from Google Sheets and send them to your WhatsApp newsletter/channel using the WAHA HTTP API.
 
 Deploy it using Docker with a minimal setup.
 
